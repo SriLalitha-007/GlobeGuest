@@ -2,3 +2,4 @@ yarn
 vite
 api for express and backend
 client will be our react app
+node vs nodemon
